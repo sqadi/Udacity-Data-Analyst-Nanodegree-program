@@ -8,9 +8,9 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 
 Co-Created by:
 
-facebook
-mongoDB
-Zipfian Academy
+* Facebook
+* MongoDB
+* Zipfian Academy
 
 # Projects
 ## Test a Perceptual Phenomenon
